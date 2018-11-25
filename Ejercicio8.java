@@ -20,6 +20,7 @@ public class Ejercicio8 {
            int colummna = Integer.parseInt(JOptionPane.showInputDialog(null, "introduzca el numero de colummnas"));
            int valor = Integer.parseInt(JOptionPane.showInputDialog(null, "introduzca un valor"));
            
+           matriz [fila -1][columna-1]= valor
        }
     }
     
